@@ -3,7 +3,7 @@ int main()
 {
 	a = 0;
 	b = a;
-	printf "%d,b";
+	printf "%d %d,a,b";
 
 }
 
